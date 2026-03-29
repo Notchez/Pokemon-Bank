@@ -1,0 +1,47 @@
+/*log in */
+
+body {
+  background: linear-gradient(135deg, #3b4cca, #ffcb05);
+
+}
+
+
+.card {
+  padding: 30px;
+  border-radius: 20px;
+  text-align: center;
+  width: 300px;
+  background: white;
+}
+
+
+
+/*pokemon menu **/
+.menu-card {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  width: 90%;
+  max-width: 500px;
+  text-align: center;
+
+}
+
+.btn {
+  margin: 8px 0;
+  border-radius: 12px;
+}
+
+
+/* historial */
+.contenedor-historial {
+  max-width: 500px;
+  width: 90%;
+  border-radius: 20px;
+}
+
+.card-grafica {
+  background: white;
+  width: 90%;
+  max-width: 700px;
+  border-radius: 20px;}
