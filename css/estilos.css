@@ -1,7 +1,10 @@
+/*log in */
+
 body {
   background: linear-gradient(135deg, #3b4cca, #ffcb05);
 
 }
+
 
 .card {
   padding: 30px;
@@ -11,6 +14,9 @@ body {
   background: white;
 }
 
+
+
+/*pokemon menu **/
 .menu-card {
   background: white;
   padding: 30px;
@@ -26,6 +32,8 @@ body {
   border-radius: 12px;
 }
 
+
+/* historial */
 .contenedor-historial {
   max-width: 500px;
   width: 90%;
@@ -36,5 +44,4 @@ body {
   background: white;
   width: 90%;
   max-width: 700px;
-  border-radius: 20px;
-}
+  border-radius: 20px;}
